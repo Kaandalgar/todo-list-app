@@ -16,8 +16,7 @@ Your tasks are saved automatically in your browser's **localStorage**.
 
 ## 📂 Preview
 
-`<img src="images/icon.png" width="80"/>`{=html}
-
+![Preview Screenshot](images/preview.png)
 ## ⚙️ How to Run
 
 1.  Clone this repository:
